@@ -1,1 +1,1 @@
-![](python-autofill.gif | width=100)
+<img src="python-autofill.gif">
