@@ -1,1 +1,1 @@
-![](python-autofill.gif)
+![](python-autofill.gif | width=100)
