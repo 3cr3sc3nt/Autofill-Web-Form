@@ -8,8 +8,8 @@ from selenium.webdriver.common.keys import Keys
 
 #storig 
 
-firstname = ['Tevfik']
-surname= ['Pehlivan']
+firstname = ['BTP']
+surname= ['BTP']
 email = [' email@gmail.com']
 cell = ['5311112233']
 birthdate = [4,4,2020]
